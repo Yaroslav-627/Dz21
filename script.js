@@ -1,0 +1,23 @@
+let name = "Генератор захисного поля" ;
+let price = 2000;
+console.log("Обрано " + name + ", ціна за штуку " + price + " кредитів")
+let hi = "Привіт";
+console.log(typeof hi);
+let num = 123;
+console.log(typeof num);
+let otvet = true;
+console.log(typeof otvet);
+let riw = "riw";
+let row = 123;
+let raw = 758;
+let ruw = "gigi";
+let ryw = true;
+const tiw = "tiw";
+const tow = 19849;
+const taw = 9455;
+const tuw = "titi";
+const tyw = false;
+console.log(riw, row, raw, ruw, ryw);
+console.log(typeof riw, typeof row, typeof raw, typeof ruw, typeof ryw);
+console.log(tiw, tow, taw, tuw, tyw);
+console.log(typeof tiw, typeof tow, typeof taw, typeof tuw, typeof tyw);
